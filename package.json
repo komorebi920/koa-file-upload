@@ -1,0 +1,18 @@
+{
+  "name": "koa-file-upload",
+  "private": true,
+  "description": "koa 文件上传示例",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "git@github.com:komorebi920/koa-file-upload.git",
+  "author": "komorebi920 <yxc900920@163.com>",
+  "dependencies": {
+    "koa": "^2.14.2",
+    "koa-body": "^6.0.1",
+    "koa-router": "^12.0.0",
+    "koa-static": "^5.0.0"
+  },
+  "license": "MIT"
+}
